@@ -1,4 +1,4 @@
-package com.amadeus.parser.ppr.common.pdf;
+package com.document.pdf;
 
 import java.text.Normalizer;
 import java.util.ArrayList;
