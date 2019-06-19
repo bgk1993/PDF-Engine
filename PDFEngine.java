@@ -1,4 +1,4 @@
-package com.amadeus.parser.ppr.common.pdf;
+package com.document.parser.pdf;
 
 import java.io.IOException;
 import java.util.List;
